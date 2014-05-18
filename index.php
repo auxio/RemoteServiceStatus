@@ -232,7 +232,7 @@ body{
   	<div class="grid2-top"><?php echo $response_array['xmws']['content']['serveruptime']; ?></div>
     <div class="grid2-bottom">Uptime</div>
   </div>
-  <div id="footer">Download this theme <a href="#" target="_blank">here</a>. - Script by <a href="http://forums.zpanelcp.com/Thread-MODULE-Remote-Service-Status-module?pid=28961#pid28961" target="_blank">Bobby Allen</a> - Theme by <a href="http://auxio.eu/" target="_blank">Auxio.</a></div>
+  <div id="footer">Download this theme <a href="https://github.com/MathDerVakker/RemoteServiceStatus/" target="_blank">here</a>. - Script by <a href="http://forums.zpanelcp.com/Thread-MODULE-Remote-Service-Status-module?pid=28961#pid28961" target="_blank">Bobby Allen</a> - Theme by <a href="http://auxio.eu/" target="_blank">Auxio.</a></div>
 </div>
 </body>
 </html>
