@@ -1,7 +1,7 @@
 RemoteServiceStatus
 ===================
 
-Costom version of the origional "Remote Service Status module" from Bobby Allen.
+A custom version of the original "Remote Service Status" module from [Bobby Allen](http://bobbyallen.me).
 
 http://forums.zpanelcp.com/Thread-MODULE-Remote-Service-Status-module?pid=28961#pid28961
 
