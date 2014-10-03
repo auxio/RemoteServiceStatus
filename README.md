@@ -3,8 +3,7 @@ RemoteServiceStatus
 
 A custom version of the original "Remote Service Status" module from [Bobby Allen](http://bobbyallen.me).
 
-http://forums.zpanelcp.com/Thread-MODULE-Remote-Service-Status-module?pid=28961#pid28961
+Demo of this theme: http://status.sentora.ga/COSTOM/
 
-Demo of this theme: http://status.zpanel.tk/COSTOM/
-
-Demo origional script: http://status.zpanel.tk/
+Demo original script: http://status.sentora.ga/
+Script original script: https://www.dropbox.com/s/f1pa50p2i9pjja0/remote_service_module_v1.zip?dl=0
