@@ -1,7 +1,7 @@
 <?php
 
 /*
- * Remote Service Display module for ZPanelX (uses XMWS)
+ * Remote Service Display module for ZPanelX and Sentora (uses XMWS)
  * Written by Bobby Allen, 05/04/2012. 
  * Edited by Ron-e [mail@auxio.eu]
  */
@@ -55,23 +55,6 @@ if ($dnsresponse_array['xmws']['content']['portstatus']['status'] == 1) {
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-	<!--
-	##################################################################################################
-	#                                                                                                #
-	#     Hello source code reader,                                                                  #
-	#                                                                                                #
-	#     This is a special note to all my source code readers, so this is a special                 #
-	#     note for you! Yes specially for YOU!                                                       #
-	#     having fun reading my source code, Well i do when i read other ones source code.           #
-	#     Well, you're welcome to read everything in my source.. :-P                                 # 
-	#     You can also view or download this script on Github:                                       #
-	#     https://github.com/auxio/RemoteServiceStatus                                               #
-	#                                                                                                #
-	#                                                               Greetings,                       #
-	#                                                                    Auxio.eu                    #
-	#                                                                                                #
-	##################################################################################################
-	-->
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<title>Server Status</title>
