@@ -1,6 +1,6 @@
 <?php
 /**
- * Remote Service Display module for ZPanelX (uses XMWS)
+ * Remote Service Display module for ZPanelX and Sentora (uses XMWS)
  * Written by Bobby Allen, 05/04/2012. 
  */
 
