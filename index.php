@@ -9,7 +9,7 @@
 require_once 'conf.php';
 require_once 'lib/servicestatus.inc.php';
 
-if ($response_array['xmws']['content']['portstatus']['http'] == 1) { 
+if ($response_array['xmws']['content']['portstatus']['web'] == 1) { 
 	$http = '<div class="grid online"><div class="grid-top">Online</div><div class="grid-bottom">HTTP</div></div>';                       
 }else{ 
     $http = '<div class="grid offline"><div class="grid-top">Offline</div><div class="grid-bottom">HTTP</div></div>'; 
